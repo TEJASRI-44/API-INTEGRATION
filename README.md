@@ -9,5 +9,11 @@ This project demonstrates how to integrate and fetch data from an external API u
 - 🎨 Clean and responsive UI using HTML & CSS
 - 🧠 Built entirely with core web technologies (no frameworks)
 
-## 📂 Project Structure
+
+## 🚀 How to Run
+
+1. Clone or download this repository:
+   ```bash
+   git clone https://github.com/TEJASRI-44/API-INTEGRATION.git
+
 
